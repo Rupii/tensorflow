@@ -1,6 +1,5 @@
 # tensorflow
-![tensorflow](https://lh3.googleusercontent.com/hIViPosdbSGUpLmPnP2WqL9EmvoVOXW7dy6nztmY5NZ9_u5lumMz4sQjjsBZ2QxjyZZCIPgucD2rhdL5uR7K0vLi09CEJYY=s688)
-
+![tensorflow](https://avatars0.githubusercontent.com/u/15658638?s=200&v=4)
 TensorFlow is an open-source software library for Machine Intelligence by google.
 
 # installation 
